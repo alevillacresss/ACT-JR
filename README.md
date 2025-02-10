@@ -56,21 +56,21 @@ Antes de comenzar, asegúrate de contar con lo siguiente:
 ### Windows
 1. Crea el entorno virtual:
    ```sh
-   python -m venv venv
+   python -m venv venv(o el nombre que quieras)
    ```
 2. Activa el entorno virtual:
    ```sh
-   venv\Scripts\activate
+   venv(nombre del venv que usaste arriba)\Scripts\activate
    ```
 
 ### Linux
 1. Crea el entorno virtual:
    ```sh
-   python3 -m venv venv
+   python3 -m venv venv(o el nombre que quieras)
    ```
 2. Activa el entorno virtual:
    ```sh
-   source venv/bin/activate
+   source venv(nombre del venv que usaste arriba)/bin/activate
    ```
 
 ## Instalación de Dependencias
